@@ -5,9 +5,6 @@ package com.ni.test.validator;
 /**
  * 
  * @author kodjobaah
- *
- * Note: Because of the way this class is designed to be used..
- * we do not check for index out of bound exceptions.
  * 
  */
 public class ValidatePosition {
